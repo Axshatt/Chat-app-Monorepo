@@ -8,8 +8,7 @@ export function TextInput({ placeholders }: PropType) {
         padding: 10,
         margin: 10,
         borderColor: "black",
-        borderWidth: 1,
-
+        borderWidth: 1, 
     }
 
     }></input>
